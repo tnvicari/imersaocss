@@ -1,0 +1,34 @@
+body{
+    background-image:
+  url('https://img.r7.com/images/galaxia-nebula-02032020120642691');
+    background-size:auto 100vh;
+    font-family:Arial;
+    color:white;
+    height:100vh; 
+  }
+  
+  .menu{
+    background-color:white;
+  }
+  
+  .menu ul{
+    display:flex;
+    justify-content:space-around;
+  }
+  
+  .menu li{
+    list-style:none;
+  }
+  
+  a{
+    color:teal;
+    text-decoration:none;
+  }
+  
+  a:hover{
+    text-decoration:underline;
+  }
+  
+  .site-title{
+    text-align:center;
+  }
